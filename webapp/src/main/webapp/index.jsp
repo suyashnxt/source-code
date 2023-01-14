@@ -3,7 +3,7 @@
 
 
     <head>
-        <title>Enter two numbers to add up</title>
+        <title>Enter two numbers for addition</title>
     </head>
     
     <body>
